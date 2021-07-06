@@ -1,2 +1,3 @@
 世界，你好,Hello,world
-love all~ 
+love all~
+masteradd 666
